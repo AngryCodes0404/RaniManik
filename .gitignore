@@ -1,0 +1,21 @@
+# =========================
+# macOS junk
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# Go build artifacts
+# =========================
+bin/
+build/
+dist/
+*.exe
+
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.local
